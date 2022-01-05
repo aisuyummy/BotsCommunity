@@ -1,2 +1,2 @@
-# BotsCommunity
+# bots
 Created with CodeSandbox
